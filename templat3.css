@@ -1,0 +1,124 @@
+
+.jojo{
+    font-family: "Pacifico rev=2"
+}
+
+
+
+.pic{
+
+
+background-image: url(images/vadim-sherbakov-tCICLJ5ktBE-unsplash-750x430.webp);
+background-size: 100% 100%;
+height: 100vh;
+margin-top: 56px;
+}
+.lolo{
+
+    font-size: 70px;
+    
+    
+    
+} 
+.mazn{
+    height: 20px;
+    
+    margin: 75px;
+    margin-left: 190px;
+
+    transform:scale(7.5); 
+    color: white;
+
+}
+
+
+
+.ill :hover{
+
+   cursor: pointer;
+    background-color: orange;
+}
+.face{
+
+
+color: white;
+background-color: black;
+transform: scale(3);
+margin: 22px;
+padding: 5px;
+}
+.micro{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+}
+.microicon{
+
+    transform: scale(4);
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.google{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     margin-left: 40px;
+}
+
+.facebook{
+
+    font-family: Arial, Helvetica, sans-serif;
+     margin-right: 40px; 
+    
+    
+}
+.ibm{
+
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.hi{
+
+    margin : 60px 0px;
+} 
+.section6{
+
+ background-image: url(../BOOTSTRAP/images/dell-0J8thHZfosE-unsplash.jpg);
+ background-size: 100% 100%;
+ background-repeat: no-repeat;
+ height: 100vh;
+ width: 100vw;
+
+
+}
+.send{
+
+  align-items: center;
+  color: white;
+  
+    
+}
+.mmm{
+    padding: 80px 15px;
+    color: white;
+    transform: scale(0.8);
+    margin-right: 40px;
+   
+}
+.sss{
+    width: 150px;
+   
+}
+.ssss{
+
+    transform: scale(1.5);
+}
+.mmmm{
+
+    padding-top: 200px;
+}
+.ll{
+
+
+    padding-top: 20px;
+    padding-bottom: 60px;
+    transform: scale(1.5);
+}
